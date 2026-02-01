@@ -16,7 +16,7 @@ __My best projects include...__
   - Blink Twice if you need help, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino), at DeltaHacks X
   - Team "insert name here" at McMaster Sumobots 2024
   - Mathemati.co, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino) and [Patrick Gaied](https://github.com/PatrickGaied), at Deerhacks III
-  - Calendar Compare, MLH Most Creative Adobe Express Add-On Winner at HawkHacks 2014, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino) and [Patrick Gaied](https://github.com/PatrickGaied)
+  - Calendar Compare, MLH Most Creative Adobe Express Add-On Winner at HawkHacks 2024, in collaboration with [Gavin Tranquilino](https://github.com/gavintranquilino) and [Patrick Gaied](https://github.com/PatrickGaied)
   - 3D Room Scanner for COMPENG 2DX3 at McMaster University
   - ALT+F4Mula at Formula Null 2025, with Matthew Frak, Zachery Hodd, and [Manan Dua](https://github.com/Manandua17)
   - Other Hand at Hack the North 2025, with [Gavin Tranquilino](https://github.com/gavintranquilino)
